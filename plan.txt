@@ -1,4 +1,5 @@
 Rencana Pengembangan Materi Web Programming
-- Create materi dasar pemrograman web
+- Create materi dasar pemrograman web (clien side scripting)
+- Create materi dasar pemrograman web (server side scripting)
 - Create aplikasi from zero to hero
 - Create aplikasi web berbasis framework
