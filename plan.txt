@@ -1,3 +1,4 @@
 Rencana Pengembangan Materi Web Programming
-- Membuat aplikasi from zero to hero
-- Membuat aplikasi web berbasis framework
+- Create materi dasar pemrograman web
+- Create aplikasi from zero to hero
+- Create aplikasi web berbasis framework
